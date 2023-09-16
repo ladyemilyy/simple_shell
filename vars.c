@@ -39,9 +39,9 @@ int is_chain(info_t *info, char *buf, size_t *p)
  * check_chain - check should we continue chaining based on last status
  * @info: parameter struct
  * @buf: this is the char buffer
- * @p: holds address of current position in buff
- * @i: the starting position in buff
- * @len:this is the  length of buff
+ * @p: holds address of current position in buf
+ * @i: the starting position in buf
+ * @len:this is the  length of buf
  *
  * Return: Void
  */
